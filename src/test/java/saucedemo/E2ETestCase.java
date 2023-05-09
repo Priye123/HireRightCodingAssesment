@@ -13,6 +13,7 @@ import org.testng.annotations.Test;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+//usecases related to saucedemo
 public class E2ETestCase {
 
 	WebDriver driver;
